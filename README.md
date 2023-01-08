@@ -1,2 +1,2 @@
 # JAVA-SOCKET-APP
-A GUI chat app built using JAVA.
+Client-Server app that shows implementation of JAVA Socket programming
